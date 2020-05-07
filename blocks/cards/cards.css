@@ -1,0 +1,11 @@
+@import url(./__description/cars__description.css);
+@import url(./__image/cards__image.css);
+@import url(./__item/cards__item\ .css);
+@import url(./__title/cards__title.css);
+.cards {
+  margin: auto;
+  width: 920px;
+  display: grid;
+  grid-template-columns: repeat(3, 240px);
+  grid-gap: 0 100px;
+}
