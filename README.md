@@ -1,2 +1,1 @@
-# how-to-learn
-#  yandex
+
