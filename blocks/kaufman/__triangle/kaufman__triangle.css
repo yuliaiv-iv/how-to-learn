@@ -5,4 +5,8 @@
   height: 877px;
   width: 877px;
   z-index: -1;
+  transform: rotate(-15deg);
+}
+.image-animation {
+  animation: rotation 20s linear infinite;
 }
