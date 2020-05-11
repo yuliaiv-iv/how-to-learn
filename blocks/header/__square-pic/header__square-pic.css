@@ -7,6 +7,3 @@
   background-color: #2f80ed;
   transform: rotate(-15deg);
 }
-.image-animation {
-  animation: rotation 20s linear infinite;
-}

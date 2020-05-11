@@ -2,8 +2,8 @@
   width: 16px;
   height: 16px;
   margin-right: 10px;
+  transition: opacity .5s linear;
 }
 .footer__social-icon:hover {
   opacity: 0.6;
-  transition: opacity .5s linear;
 }
